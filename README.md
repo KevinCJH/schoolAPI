@@ -13,6 +13,13 @@ To run this code locally, do the following:
 
 ---
 
+To run the unit test:
+
+1. Type `npm test`
+2. Tests are located in the /test folder
+
+---
+
 To set-up the mySQL database, execute the query below:
 
 ```sql
